@@ -1,0 +1,89 @@
+{
+  "recipient_email": "digi1996@hotmail.com",
+  "products": [
+    {
+      "label": "Kmart - Pokemon Trading Cards category",
+      "url": "https://www.kmart.com.au/category/toys/pokemon-trading-cards/"
+    },
+    {
+      "label": "JB Hi-Fi - Pokémon Trading Card Games collection",
+      "url": "https://www.jbhifi.com.au/collections/collectibles-merchandise/pokemon-trading-cards"
+    },
+    {
+      "label": "JB Hi-Fi - Trading Card Games hub",
+      "url": "https://www.jbhifi.com.au/pages/trading-card-games-hub"
+    },
+    {
+      "label": "Toymate - Pokemon TCG main page",
+      "url": "https://toymate.com.au/pokemon/"
+    },
+    {
+      "label": "Toymate - Mega Evolution Checklane Blister",
+      "url": "https://toymate.com.au/pokemon-tcg-mega-evolution-checklane-blister/"
+    },
+    {
+      "label": "Toymate - Paradox Clash Tin",
+      "url": "https://toymate.com.au/pokemon-tcg-paradox-clash-tin/"
+    },
+    {
+      "label": "Toymate - Scarlet & Violet Super-Premium collection",
+      "url": "https://toymate.com.au/pokemon-tcg-scarlet-violet-8-5-prismatic-evolutions-super-premium-collection/"
+    },
+    {
+      "label": "Big W - Pokemon Trading Cards category",
+      "url": "https://www.bigw.com.au/toys/trading-cards/pokemon-trading-cards/c/681510201"
+    },
+    {
+      "label": "Big W - Pokemon Classic Collection (example product)",
+      "url": "https://www.bigw.com.au/product/pokemon-trading-card-game-classic-collection/p/9901886895"
+    },
+    {
+      "label": "Big W - 20 Rare Pokemon Cards pack",
+      "url": "https://www.bigw.com.au/product/pokemon-tcg-20-rare-pokemon-cards-all-genuine-rare-cards/p/9900406868"
+    },
+    {
+      "label": "Target - Pokemon cards category",
+      "url": "https://www.target.com.au/c/toys/trading-card-games/pokemon-cards/W1852642"
+    },
+    {
+      "label": "Target - Pokemon Grand Adventure Collection (example)",
+      "url": "https://www.target.com.au/p/pokemon-tcg-grand-adventure-collection-assorted/70657937"
+    },
+    {
+      "label": "EB Games - Pokemon TCG featured page",
+      "url": "https://www.ebgames.com.au/featured/pokemon-trading-card-game"
+    },
+    {
+      "label": "EB Games - Pokemon product example - Classic Collection",
+      "url": "https://www.ebgames.com.au/product/toys-and-collectibles/301152-pokemon-trading-card-game-classic-collection"
+    },
+    {
+      "label": "EB Games - Mega Evolutions 3 Booster Blister example",
+      "url": "https://www.ebgames.com.au/product/toys-and-collectibles/334352-pokmon-tcg-mega-evolutions-phantasmal-flames-three-booster-blister"
+    },
+    {
+      "label": "Kmart - home page (extra coverage)",
+      "url": "https://www.kmart.com.au/"
+    },
+    {
+      "label": "JB Hi-Fi - Trading Card Games (generic)",
+      "url": "https://www.jbhifi.com.au/collections/collectibles-merchandise/trading-card-games"
+    },
+    {
+      "label": "Target - Pokemon brand page",
+      "url": "https://www.target.com.au/b/pokemon"
+    },
+    {
+      "label": "Big W - Pokemon brand page",
+      "url": "https://www.bigw.com.au/brands/pokemon"
+    },
+    {
+      "label": "Toymate - Mega Evolution Checklane (alternate)",
+      "url": "https://toymate.com.au/pokemon-tcg-mega-evolution-checklane-blister/"
+    },
+    {
+      "label": "Generic retailer search - Pokemon TCG (catch-all)",
+      "url": "https://www.google.com/search?q=site:au+pokemon+tcg"
+    }
+  ]
+}
